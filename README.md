@@ -143,3 +143,7 @@ isort app
 ## License
 
 MIT
+
+---
+
+[中文版](./README_CN.md)
